@@ -4,13 +4,17 @@
   </a>
 </h1>
 
-<h5 align="center">
+<h2 align="center">
   <code><a href="https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/" title="LinkedIn Profile"><img width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7ybhKTbz6xjApAIz0uvOxwfb7cygtchhDxcsyGLfMA&s"> LinkedIn</a></code>
   <code><a href="https://github.com/NissrineEttayeby" title="Github Profile"><img width="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> Github</a></code>
-</h5>
+</h2>
+
 
  Iam a data engineering student at the National School of Applied Sciences Morocco (Al Hoceima). I am fascinated by the power of data and its ability to transform businesses and improve people's lives. I am constantly exploring new tools and technologies in the data engineering space to develop innovative solutions and gain practical experience. Apart from my academic pursuits, I enjoy collaborating with other data enthusiasts. I believe that through continuous learning and collaboration, we can build a better future with data.
-<img align="right" alt="Nissrine Ettayeby" />
+
+
+
+
 
 
 
