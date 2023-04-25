@@ -1,15 +1,15 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=35&width=800&lines=Hello+World!+I+am+Nissrine+Ettayeby,I+am+a+data+engineering+enthusiast+and+a+student+at+the+National+School+of+Applied+Sciences+Morocco+(Al+Hoceima)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=35&width=800&lines=Hello+World!+I+am+Nissrine+Ettayeby">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/NissrineEttayeby" title="Github Profile"><img width="25" src="images/github.svg"> Github</a></code>
+  <code><a href="https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/" title="LinkedIn Profile"><img width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7ybhKTbz6xjApAIz0uvOxwfb7cygtchhDxcsyGLfMA&s"> LinkedIn</a></code>
+  <code><a href="https://github.com/NissrineEttayeby" title="Github Profile"><img width="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> Github</a></code>
 </h5>
 
- "I am fascinated by the power of data and its ability to transform businesses and improve people's lives. I am constantly exploring new tools and technologies in the data engineering space to develop innovative solutions and gain practical experience. Apart from my academic pursuits, I enjoy collaborating with other data enthusiasts. I believe that through continuous learning and collaboration, we can build a better future with data.
+ Iam a data engineering student at the National School of Applied Sciences Morocco (Al Hoceima). I am fascinated by the power of data and its ability to transform businesses and improve people's lives. I am constantly exploring new tools and technologies in the data engineering space to develop innovative solutions and gain practical experience. Apart from my academic pursuits, I enjoy collaborating with other data enthusiasts. I believe that through continuous learning and collaboration, we can build a better future with data.
 <img align="right" alt="Nissrine Ettayeby" />
 
 
