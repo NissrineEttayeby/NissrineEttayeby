@@ -10,7 +10,7 @@
 </h2>
 
 
- Iam a data engineering student at the National School of Applied Sciences Morocco (Al Hoceima). I am fascinated by the power of data and its ability to transform businesses and improve people's lives. I am constantly exploring new tools and technologies in the data engineering space to develop innovative solutions and gain practical experience. Apart from my academic pursuits, I enjoy collaborating with other data enthusiasts. I believe that through continuous learning and collaboration, we can build a better future with data.
+ I am a data engineering enthusiast and a student at the National School of Applied Sciences Morocco (Al Hoceima). I am fascinated by the power of data and its ability to transform businesses and improve people's lives. I am constantly exploring new tools and technologies in the data engineering space to develop innovative solutions and gain practical experience. Apart from my academic pursuits, I enjoy collaborating with other data enthusiasts. I believe that through continuous learning and collaboration, we can build a better future with data.
 
 
 
