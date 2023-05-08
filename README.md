@@ -6,7 +6,6 @@
 
 <h2 align="center">
   <code><a href="https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/" title="LinkedIn Profile"><img width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7ybhKTbz6xjApAIz0uvOxwfb7cygtchhDxcsyGLfMA&s"> LinkedIn</a></code>
-  <code><a href="https://github.com/NissrineEttayeby" title="Github Profile"><img width="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> Github</a></code>
 </h2>
 
 
