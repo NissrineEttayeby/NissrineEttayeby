@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%231A237E&size=35&width=800&center=true&lines=Welcome+to+My+Profile">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%231976D2&size=35&width=800&center=true&lines=Welcome+to+My+Profile">
   </a>
 </h1>
 
@@ -12,13 +12,11 @@
 <p align="center">I am Nissrine Ettayeby, a dedicated data engineering enthusiast and a final-year student at the National School of Applied Sciences, Morocco (Al Hoceima).
 
 
-🎓 **Education**: In my pursuit of a degree in Data Engineering, I have forged a robust proficiency in diverse data processing frameworks, including Apache Spark and PySpark. My academic journey has equipped me with the skills necessary to design, develop, and optimize data pipelines for transformative insights.
+📚 **Education**: Pursuing a degree in Data Engineering has honed my skills in various data processing techniques. My academic journey equips me to design, develop, and optimize data workflows for valuable insights.
 
+🔍 **Interests**: Driven by curiosity, I explore the realm of data and its diverse applications. I thrive on projects that uncover patterns, derive insights, and contribute to impactful solutions.
 
-🔍 **Interests**: My insatiable curiosity propels me to unravel the intricate tapestry of data and its boundless applications. I am drawn to projects that encompass intricate data integration, the orchestration of ETL pipelines, and the art of deriving actionable insights from data-driven analyses.
-
-
-🌟 **Aspirations**: Currently, I am in active pursuit of a distinguished PFE internship opportunity that will enable me to immerse myself in real-world data engineering scenarios. My enthusiasm lies in collaborating with seasoned industry professionals to deliver solutions that carry tangible impact and innovation.
+🚀 **Aspirations**: Actively seeking a distinguished PFE internship, I aim to immerse myself in real-world data engineering scenarios. Collaborating with industry professionals, my goal is to create solutions that drive tangible impact and innovation.
 
 
 
