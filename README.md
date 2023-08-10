@@ -12,8 +12,6 @@
 
 🔍 **Interests**: Driven by curiosity, I explore the realm of data and its diverse applications. I thrive on projects that uncover patterns, derive insights, and contribute to impactful solutions.
 
-🚀 **Aspirations**: Actively seeking a distinguished PFE internship, I aim to immerse myself in real-world data engineering scenarios. Collaborating with industry professionals, my goal is to create solutions that drive tangible impact and innovation.
-
  I'm always on the lookout for exciting challenges and opportunities to expand my horizons. if you have exciting opportunities or would like to connect, here is my [LinkedIn](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)
 
 
