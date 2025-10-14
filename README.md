@@ -7,12 +7,12 @@
 
 <br/>
 
-🚀 Currently working on real-world **Data Science** & **Machine Learning** projects  
-🔍 Passionate about the intersection of **code, data & intelligence**
+- Currently working on real-world **Data Science** & **Machine Learning** projects  
+- Passionate about the intersection of **code, data & intelligence**
 
 </div>
 
-## 💡 About Me
+## Overview
 
 I’m an early-career engineer driven by data-powered problem solving and production-grade ML applications. I thrive building solutions from the ground up — whether that’s a robust data pipeline, predictive model, or automated system.
 
