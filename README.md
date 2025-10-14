@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎯 **Software & Data Engineer** @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" alt="Oracle Logo" width="20" height="20" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
+🎯 **Software & Data Engineer** @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" alt="Oracle Logo" width="60" height="60" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
 
 
 <br/>
@@ -41,6 +41,8 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 </span>  
 <br>
 
+
+
 📊 Data Science & Machine Learning  
 
 <span>
@@ -53,6 +55,8 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 </span>  
 <br>
 
+
+
 🔧 Data Engineering & DevOps 
 
 <span>
@@ -63,6 +67,8 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 </span>  
 <br>
 
+
+
 ☁️ ML Ops & Cloud (Learning)  
 
 <span>
@@ -72,6 +78,8 @@ I’m an early-career engineer driven by data-powered problem solving and produc
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </span>  
 <br>
+
+
 
 🗄️ Databases & Platforms  
 <span>
