@@ -7,8 +7,8 @@
 
 <br/>
 
-- Currently working on real-world **Data Science** & **Machine Learning** projects  
-- Passionate about the intersection of **code, data & intelligence**
+ Currently working on real-world **Data Science** & **Machine Learning** projects  
+ Passionate about the intersection of **code, data & intelligence**
 
 </div>
 
