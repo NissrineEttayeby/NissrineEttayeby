@@ -18,7 +18,6 @@ I’m an early career engineer driven by data-powered problem solving and produc
 
 - 💼 Currently developing **ERP-integrated AI solutions**, blending **ML/AI** with complex enterprise workflows  
 - 🧠 Diving deep into **Generative AI**, **NLP**, and classic **Machine Learning** for business automation  
-- 🌉 Bridging structured ERP data with intelligent, data-driven decision-making systems  
 - 🛠️ Continuously leveling up skills in **Cloud Platforms**, **Data Engineering**, and **MLOps**
 
 
