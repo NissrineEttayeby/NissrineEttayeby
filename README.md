@@ -14,7 +14,7 @@
 
 ## Overview
 
-I’m an early-career engineer driven by data-powered problem solving and production-grade ML applications. I thrive building solutions from the ground up — whether that’s a robust data pipeline, predictive model, or automated system.
+I’m an early career engineer driven by data-powered problem solving and production grade ML applications. I thrive building solutions from the ground up whether that’s a robust data pipeline, predictive model, or automated system.
 
 - 💼 Currently developing **ERP-integrated AI solutions**, blending **ML/AI** with complex enterprise workflows  
 - 🧠 Diving deep into **Generative AI**, **NLP**, and classic **Machine Learning** for business automation  
