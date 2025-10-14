@@ -14,6 +14,7 @@ I'm an early-career engineer passionate about data-driven problem solving and ap
 - 🌐 Building bridges between structured ERP data and intelligent, data-driven decision-making systems  
 - 🛠️ Continuously expanding my skills in **cloud platforms**, **data engineering**, and **MLOps best practices**
 
+  Let's Connect [LinkedIn](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/) 
 
 ## 🔧 Tech Stack & Tools
 
@@ -51,10 +52,5 @@ I'm an early-career engineer passionate about data-driven problem solving and ap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NissrineEttayeby&show_icons=true&theme=tokyonight&hide=prs,issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NissrineEttayeby&layout=compact&langs_count=8)
-
-
-
-## 📬 Let's Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)  
+ 
 
