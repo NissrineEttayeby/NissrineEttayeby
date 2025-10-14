@@ -84,7 +84,8 @@ I’m an early career engineer driven by data-powered problem solving and produc
 
 
 
- Databases & Platforms  🗄️ 
+
+Databases & Platforms  🗄️ 
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />&nbsp;
