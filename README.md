@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎯 **Software & Data Engineer** @Oracle <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/oracle.svg" alt="Oracle Logo" width="20" height="20" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
+🎯 **Software & Data Engineer** @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" alt="Oracle Logo" width="20" height="20" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
 
 
 <br/>
