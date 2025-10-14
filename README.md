@@ -2,7 +2,8 @@
 
 <div align="center">
 
-🎯 **Software & Data Engineer** @ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="20" /> | **ML & AI Enthusiast**
+🎯 **Software & Data Engineer** @Oracle <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/oracle.svg" alt="Oracle Logo" width="20" height="20" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
+
 
 <br/>
 
@@ -26,11 +27,12 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)
 
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
 🖥️ Languages  
+
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
@@ -40,6 +42,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 <br>
 
 📊 Data Science & Machine Learning  
+
 <span>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
@@ -50,7 +53,8 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 </span>  
 <br>
 
-🔧 Data Engineering & DevOps  
+🔧 Data Engineering & DevOps 
+
 <span>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
@@ -60,8 +64,9 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 <br>
 
 ☁️ ML Ops & Cloud (Learning)  
+
 <span>
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />&nbsp;
+  <img src="https://img.shields.io/badge/OCI-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
