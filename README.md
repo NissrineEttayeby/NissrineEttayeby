@@ -5,7 +5,7 @@
 🔍 Exploring the intersection of **code, data, and intelligence**
 
 
-## 🧠 About Me
+## About Me
 
 I'm an early-career engineer passionate about data-driven problem solving and applying machine learning in production settings. I enjoy building things from scratch, whether it’s a data pipeline, a prediction model, or an automated system.
 
@@ -16,7 +16,7 @@ I'm an early-career engineer passionate about data-driven problem solving and ap
 
   Let's Connect [LinkedIn](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/) 
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
@@ -50,7 +50,6 @@ I'm an early-career engineer passionate about data-driven problem solving and ap
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NissrineEttayeby&show_icons=true&theme=tokyonight&hide=prs,issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NissrineEttayeby&layout=compact&langs_count=8)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NissrineEttayeby&show_icons=true&theme=tokyonight&hide=prs,issues&border_radius=10&rank_icon=github" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissrineEttayeby&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" width="48%" alt="Top Languages" /> </div>
  
 
