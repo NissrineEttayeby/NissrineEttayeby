@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎯 **Software & Data Engineer** @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" alt="Oracle Logo" width="60" height="60" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
+**Software & Data Engineer** @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" alt="Oracle Logo" width="60" height="60" style="vertical-align:middle;" /> | **ML & AI Enthusiast**
 
 
 <br/>
@@ -22,7 +22,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 - 🛠️ Continuously leveling up skills in **Cloud Platforms**, **Data Engineering**, and **MLOps**
 
 
-### 🤝 Let’s Connect!
+### Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)
 
@@ -31,19 +31,22 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 
 <div align="center">
 
-🖥️ Languages  
-
+ Languages 🖥️
+ 
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
 </span>  
 <br>
 
 
 
-📊 Data Science & Machine Learning  
+
+ Data Science & Machine Learning 📊
 
 <span>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
@@ -57,7 +60,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 
 
 
-🔧 Data Engineering & DevOps 
+ Data Engineering & DevOps 🔧
 
 <span>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />&nbsp;
@@ -69,7 +72,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 
 
 
-☁️ ML Ops & Cloud (Learning)  
+ ML Ops & Cloud (Learning)  ☁️
 
 <span>
   <img src="https://img.shields.io/badge/OCI-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
@@ -81,7 +84,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 
 
 
-🗄️ Databases & Platforms  
+ Databases & Platforms  🗄️ 
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />&nbsp;
@@ -93,7 +96,7 @@ I’m an early-career engineer driven by data-powered problem solving and produc
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NissrineEttayeby&show_icons=true&theme=tokyonight&hide=prs,issues&border_radius=10&rank_icon=github" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissrineEttayeby&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" width="48%" alt="Top Languages" /> </div>
  
