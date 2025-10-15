@@ -12,7 +12,6 @@
 
 </div>
 
-## Overview
 
 I’m an early career engineer driven by data-powered problem solving and production grade ML applications. I thrive building solutions from the ground up whether that’s a robust data pipeline, predictive model, or automated system.
 
@@ -21,9 +20,7 @@ I’m an early career engineer driven by data-powered problem solving and produc
 - 🛠️ Continuously leveling up skills in **Cloud Platforms**, **Data Engineering**, and **MLOps**
 
 
-### Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)
+### Let’s Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nissrine-ettayeby1-659b70190/)
 
 
 ## Tech Stack & Tools
